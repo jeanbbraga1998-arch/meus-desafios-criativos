@@ -72,6 +72,6 @@ Encaminhe quando não souber a resposta ou quando o caso exigir análise interna
 
 ## 👤 Autor
 
-Desenvolvido por **[Seu Nome Aqui]** como parte da trilha de estudos na **DIO**.
-* [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-* [GitHub](https://github.com/seu-usuario)
+Desenvolvido por **[jean braga]** como parte da trilha de estudos na **DIO**.
+* [LinkedIn](https://www.linkedin.com/in/jean-carlos-braga-6a9432135)
+* [GitHub](https://github.com/jeanbbraga1998-arch)
