@@ -72,6 +72,6 @@ Encaminhe quando não souber a resposta ou quando o caso exigir análise interna
 
 ## 👤 Autor
 
-Desenvolvido por **jean braga** como parte da trilha de estudos na **DIO**.
+Desenvolvido por **jean braga** como parte do bootcamp bradesco ia do zero a pratica na **DIO**.
 * [LinkedIn](https://www.linkedin.com/in/jean-carlos-braga-6a9432135)
 * [GitHub](https://github.com/jeanbbraga1998-arch)
